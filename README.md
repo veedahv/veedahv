@@ -19,7 +19,7 @@ I am a Frontend Web Developer based in Uyo, Nigeria. I am a studying computer en
 I am currently learning vue js and working on improving my technical writing skill.
 
 
-I am comfortable with:
+### I am comfortable with:
 
 HTML
 CSS 
