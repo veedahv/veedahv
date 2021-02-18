@@ -29,11 +29,11 @@ Git
 Github
 
 
-💬 Ask me about
-Music
-Movies
-Food🤭 
-Any of the above listed frontend Technologies
+### 💬 Ask me about
+ • Music
+ • Movies
+ • Food🤭 
+ • Any of the above listed frontend Technologies
 
 
 ⚡ Fun fact:🙂🙂
