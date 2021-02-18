@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<-- Hi there 👋 -->
+<!-- Hi there 👋 -->
 I am a Frontend Web Developer based in Uyo, Nigeria. I am a studying computer engineering at the University of Uyo, Uyo, Akwa Ibom State, Nigeria. 
 I am currently learning vue js and working on improving my technical writing skill.
 
@@ -32,7 +32,7 @@ Github
 💬 Ask me about
 Music
 Movies
-Food🤭
+Food🤭 
 Any of the above listed frontend Technologies
 
 
