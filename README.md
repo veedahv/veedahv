@@ -16,31 +16,31 @@ Here are some ideas to get you started:
 -->
 <!-- Hi there 👋 -->
 I am a Frontend Web Developer based in Uyo, Nigeria. I am a studying computer engineering at the University of Uyo, Uyo, Akwa Ibom State, Nigeria. 
-I am currently learning vue js and working on improving my technical writing skill.
+>I am currently learning vue js and working on improving my technical writing skill.
 
 
 ### I am comfortable with:
 
 - HTML
 - CSS 
-Bootstrap 
-Javascript 
-Git
-Github
+- Bootstrap 
+- Javascript 
+- Git
+- Github
 
 
 ### 💬 Ask me about
- • Music
- • Movies
- • Food🤭 
- • Any of the above listed frontend Technologies
+- Music
+- Movies
+- Food🤭 
+- Any of the above listed frontend Technologies
 
 
 ### ⚡ Fun fact:🙂🙂
 
 
 ### 📫 How to reach me:
-Email: veedahv55@gmail.com 
-Twitter: @me_veey
-Linkedin: https://www.linkedin.com/in/victoria-akpan
-Instagram: @mhvee__e
+- Email: veedahv55@gmail.com 
+- Twitter: @me_veey
+- Linkedin: https://www.linkedin.com/in/victoria-akpan
+- Instagram: @mhvee__e
