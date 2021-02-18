@@ -36,10 +36,10 @@ Github
  • Any of the above listed frontend Technologies
 
 
-⚡ Fun fact:🙂🙂
+### ⚡ Fun fact:🙂🙂
 
 
-📫 How to reach me:
+### 📫 How to reach me:
 Email: veedahv55@gmail.com 
 Twitter: @me_veey
 Linkedin: https://www.linkedin.com/in/victoria-akpan
