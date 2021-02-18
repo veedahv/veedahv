@@ -21,8 +21,8 @@ I am currently learning vue js and working on improving my technical writing ski
 
 ### I am comfortable with:
 
-HTML
-CSS 
+- HTML
+- CSS 
 Bootstrap 
 Javascript 
 Git
