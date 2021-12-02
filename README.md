@@ -41,6 +41,6 @@ I am a Frontend Web Developer based in Uyo, Nigeria. I am a studying computer en
 
 ### 📫 How to reach me:
 - Email: veedahv55@gmail.com 
-- Twitter: @me_veey
+- Twitter: @veedahv
 - Linkedin: https://www.linkedin.com/in/victoria-akpan
-- Instagram: @mhvee__e
+- Instagram: @veedahv
