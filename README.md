@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- Hi there 👋 -->
 I am a Frontend Web Developer based in Uyo, Nigeria. I am a studying computer engineering at the University of Uyo, Uyo, Akwa Ibom State, Nigeria. 
->I am currently learning vue js and working on improving my technical writing skill.
+>I am currently learning angular.
 
 
 ### I am comfortable with:
@@ -24,7 +24,10 @@ I am a Frontend Web Developer based in Uyo, Nigeria. I am a studying computer en
 - HTML
 - CSS 
 - Bootstrap 
+- Tailwind
 - Javascript 
+- Vue 3
+- Angular
 - Git
 - Github
 
