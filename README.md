@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- Hi there 👋 -->
 I am a Frontend Web Developer based in Uyo, Nigeria. I am a studying computer engineering at the University of Uyo, Uyo, Akwa Ibom State, Nigeria. 
->I am currently learning angular.
+>I am currently learning NextJs and Web3.
 
 
 ### I am comfortable with:
@@ -28,6 +28,9 @@ I am a Frontend Web Developer based in Uyo, Nigeria. I am a studying computer en
 - Javascript 
 - Vue 3
 - Angular
+- React
+- NextJs
+- NuxtJs
 - Git
 - Github
 
@@ -47,3 +50,4 @@ I am a Frontend Web Developer based in Uyo, Nigeria. I am a studying computer en
 - Twitter: @veedahv
 - Linkedin: https://www.linkedin.com/in/victoria-akpan
 - Instagram: @mhvee__e
+- Website: [veedahv.me](https://veedahv.me)
